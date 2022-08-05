@@ -1,0 +1,58 @@
+<html>
+<head>
+	<title>Rabbits</title>
+</head>
+<body>
+    <h1>
+         Rabbit1?
+    </h1>
+</body>
+
+<!-- <script>
+
+	function a(){
+		alert("HELLO");
+	}
+
+</script> -->
+
+<body background="bg.jpeg" onLoad='a()'>
+<p id="rabbit">Rabbits are cute.</p>
+
+<table>
+	<tr>Rabbits are cute 
+		<th><img src="rabbit1.jpg" />
+			</th>
+			
+		</tr>
+	</table>
+
+    <body>
+        <h1>
+             Rabbit2?
+        </h1>
+    </body>
+    <p id="rabbit1">Rabbits are of different types</p>
+<table>
+	<tr>Rabbits are of different types 
+		
+			<th><img src="rabbit2.jpg" />
+			</th>
+            
+		</tr>
+	</table>
+
+    <body>
+        <h1>
+             Rabbit3?
+        </h1>
+    </body>
+    <p id="rabbit1">Rabbits are of different colors</p>
+<table>
+	<tr>Rabbits are of different colors 
+		
+			<th><img src="rabbit3.jpg" />
+			</th>
+            
+		</tr>
+	</table>
